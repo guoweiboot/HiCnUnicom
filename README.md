@@ -11,7 +11,7 @@
 ![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions2.png)
 
 
-### 3. 添加secret
+### 3. 添加secret..
 进入仓库后点击 `Settings`  
 侧栏点击 `Secrets`  
 点击 `New secret`  
